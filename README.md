@@ -1,0 +1,2 @@
+# DropZone
+Read about dropzone
